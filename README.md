@@ -3,7 +3,7 @@ CSProject2114
 
 CS 2114 Group Project 
 
-Instructions:
+Some instructions:
 
 git pull
 git status
