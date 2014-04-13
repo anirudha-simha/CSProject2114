@@ -11,7 +11,9 @@ CS 2114 Group Project
 
 4. git status
 
-5. git commit (Add descriptive title, 'enter' twice, write detailed description)
+5. git commit (Add descriptive title, 'enter' twice, write detailed description) 
+
+6. or git commit -m "(your descriptive message)"
 
 6. esc :wq
 
