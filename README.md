@@ -2,7 +2,7 @@ CSProject2114
 =============
 
 CS 2114 Group Project 
-
+ingvutl
 1. git pull
 
 2. git status
